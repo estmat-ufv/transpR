@@ -1,0 +1,13 @@
+name: stats4ebII
+title: stats4ebII
+username:
+account: estmat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5758006
+bundleId: 6142939
+url: https://estmat.shinyapps.io/stats4ebII/
+when: 1659030880.71166
+lastSyncTime: 1659030880.71167
+asMultiple: FALSE
+asStatic: FALSE
